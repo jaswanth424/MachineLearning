@@ -1,6 +1,6 @@
 # Welcome to  Data Science for Artificial Intelligence MAI103 - Group project -- 2026
 
-Use 'mai_datascience' folder for collaboration.
+Use **mai_datascience** folder for collaboration.
 
 We will be using this repo for our group project collaboration.
 Feel free to add your code, modify.
